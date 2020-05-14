@@ -27,8 +27,9 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 技术要求
 
     - 能使用 Git 进行协作开发
-    - 熟悉 C
+    - 熟悉 C，x86 汇编
     - 熟悉 linux 代码
+    - 熟悉 make 的使用
     - 有一定的 debug 能力
     - 一定的 x86 硬件知识
 
@@ -62,8 +63,9 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 技术要求
 
     - 能使用 Git 进行协作开发
-    - 熟悉 C
+    - 熟悉 C，x86 汇编
     - 熟悉 linux 代码
+    - 熟悉 make 的使用
     - 有一定的 debug 能力
     - 相当的 x86 硬件知识
 
@@ -95,8 +97,9 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 技术要求
 
     - 能使用 Git 进行协作开发
-    - 熟悉 C
+    - 熟悉 C，x86 汇编
     - 熟悉 linux 代码
+    - 熟悉 make 的使用
     - 熟悉进程调度相关知识
     - 相当的 x86 硬件知识
 
@@ -134,4 +137,43 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 相关地址
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
+
+
+## SimpleCompiler
+
+SimpleCompiler 目前还只是个雏形，仅实现了词法解析部分，如果你有兴趣在它开始的时候加入进来，很欢迎你的到来。
+
+
+
+### 完善编译器架构
+
+- 项目描述
+
+    目前仅实现了基本的词法解析，但对于整个编译器的整体结构尚未有过考虑，我们需要一位对编译器熟悉的同学来把握大方向，站在初学者的角度，我们的代码怎么写能让别人容易理解，便于迁移呢？
+
+- 项目难度
+
+    中
+
+- 导师
+
+    MRNIU(https://github.com/MRNIU)
+
+- 项目产出要求
+
+    1. 一份架构设计，分析现有技术方案，明确我们的代码该怎么写
+    2. 实现所描述的框架性代码
+
+- 技术要求
+
+    - 能使用 Git 进行协作开发
+    - 熟悉 C/C++，x86 汇编
+    - 熟悉 make 的使用
+    - 熟悉编译器相关知识
+    - 有一定教学经验
+
+- 相关地址
+
+    [SimpleCompiler](https://github.com/Simple-XX/SimpleCompiler)
 
