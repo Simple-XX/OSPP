@@ -21,6 +21,8 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 导师
 
     MRNIU(https://github.com/MRNIU)
+    
+    mail: Zone.niuzh@hotmail.com
 
 - 项目产出要求
 
@@ -56,6 +58,8 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 导师
 
     MRNIU(https://github.com/MRNIU)
+    
+    mail: Zone.niuzh@hotmail.com
 
 - 项目产出要求
 
@@ -90,6 +94,8 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 导师
 
     MRNIU(https://github.com/MRNIU)
+    
+    mail: Zone.niuzh@hotmail.com
 
 - 项目产出要求
 
@@ -163,6 +169,8 @@ SimpleCompiler 目前还只是个雏形，仅实现了词法解析部分，如�
 - 导师
 
     MRNIU(https://github.com/MRNIU)
+    
+    mail: Zone.niuzh@hotmail.com
 
 - 项目产出要求
 
