@@ -4,6 +4,8 @@ License: [MIT License](https://opensource.org/licenses/MIT)
 
 邮件格式：请统一使用 `summer2020_项目名_姓名` 作为邮件主题
 
+加入群组获取更多信息：[slack](https://join.slack.com/t/simple-xx/shared_invite/zt-eowe46jb-coTqSRQRSF44edYICElI3w)
+
 ## SimpleKernel
 
 SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段的开发进行到多任务的实现，已经实现的内容包括使用 grub2 启动，进入 32 位保护模式，虚拟内存的初步管理。
