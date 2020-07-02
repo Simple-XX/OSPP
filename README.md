@@ -82,6 +82,11 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 - 相关地址
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+    
+- 中选学生
+    
+    曹野 [cy295957410](https://github.com/cy295957410)
+
 
 ### 完成多任务系统
 
@@ -119,6 +124,9 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
 
+- 中选学生
+    
+    张俊杰 [JacoCheung](https://github.com/JacoCheung)
 
 
 ### 编写实现文档
@@ -150,6 +158,9 @@ SimpleKernel 是一个参考早期 linux 实现的简单 x86 内核，现阶段�
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
 
+- 中选学生
+
+    杨智凯 [xiaoerlaigeid](https://github.com/xiaoerlaigeid)
 
 
 ## SimpleCompiler
