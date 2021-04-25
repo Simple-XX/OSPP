@@ -156,7 +156,167 @@
 
 ## SimpleKernel
 
+### 编写项目文档
+
+- 项目描述
+
+    SimpleKernel 是一个用 C++ 实现的简单内核，目前支持 x86，arm，riscv。
+
+    需要一份文档帮助使用者熟悉代码。
+
+    项目标签：kernel 文档
+
+- 项目难度
+
+    中
+
+- 导师
+
+    牛志宏
+
+    a6813140@hotmail.com
+
+- 项目产出要求
+
+    为每个 branch 编写 README，介绍原理与代码实现
+
+    说明每个代码目录下的文件用途，有需要注意的地方要单独说明
+
+    整理相关资料，存放在相应的目录下
+
+- 技术要求
+
+    内核相关知识
+
+    C++
+
+    x86，arm，riscv 相关知识
+
+- 相关地址
+
+    [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
+### 多平台内存管理优化
+
+- 项目描述
+
+    对多平台的内存管理进行改进。
+
+    Simple Kernel 已经完成了 x86 平台下的物理内存探测以及二级分页下的虚拟内存，现在需要进行拓展。
+
+    项目标签：kernel 内存管理
+
+- 项目难度
+
+    高
+
+- 导师
+
+    牛志宏
+
+    a6813140@hotmail.com
+
+- 项目产出要求
+
+    1. arm，riscv64 下的物理内存探测与管理
+    2. 重新设计虚拟内存部分，支持最多 4 级页表
+    3. malloc，free 的实现
+    4. new，delete 的实现(C++17)
+
+- 技术要求
+
+    内核相关知识
+
+    内存管理相关知识
+
+    C++
+
+    x86，arm，riscv 相关知识
+
+- 相关地址
+
+    [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
+### 多平台多核与任务管理
+
+- 项目描述
+
+    抽象出多核、任务管理相关数据与操作，并实现 x86，arm，riscv 下的任务管理
+
+    项目标签：kernel 任务管理
+
+- 项目难度
+
+    高
+
+- 导师
+
+    牛志宏
+
+    a6813140@hotmail.com
+
+- 项目产出要求
+
+    1. 平台无关的多核抽象
+    2. 平台无关的任务抽象
+    3. x86/arm/riscv 下任务管理的实现
+
+- 技术要求
+
+    内核相关知识
+
+    C++
+
+    任务管理相关知识
+
+    x86，arm，riscv 相关知识
+
+- 相关地址
+
+    [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
 ## SimpleRenderer
 
 ## SimpleCompiler
 
+### 完善编译器架构
+
+- 项目描述
+
+    SimpleCompiler 目前仅完成了部分前端处理，需要进行完善
+
+    项目标签：Compiler x86
+
+- 项目难度
+
+    高
+
+- 导师
+
+    牛志宏
+
+    a6813140@hotmail.com
+
+- 项目产出要求
+
+    支持部分 C99 标准的前端
+
+    x86 平台下的后端
+
+    简单的优化
+
+    设计师需要考虑跨平台问题
+
+- 技术要求
+
+    C++
+
+    编译原理
+
+    x86 指令集
+
+- 相关地址
+
+    [SimpleCompiler](https://github.com/Simple-XX/SimpleCompiler)
+
+    
