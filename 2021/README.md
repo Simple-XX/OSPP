@@ -275,7 +275,119 @@
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
 
+### 为 SimpleKernel 实现测试用例和自动化测试流水线
+
+- 项目描述
+
+    SimpleKernel 是一个用 C++ 实现的简单内核，目前支持 x86，arm，riscv。
+
+    需要提供目前simplekernel的测试用例以及CICD流水线。
+
+    项目标签：kernel 文档
+
+- 项目难度
+
+    中
+
+- 导师
+
+    xiaoerlaigeid
+
+    xiaoerlaigeid@qq.com
+
+- 项目产出要求
+
+    实现目前功能测试用例，并实现自动化流水线测试
+
+- 技术要求
+
+    内核相关知识
+
+    C++
+
+    x86，arm，riscv 相关知识
+
+- 相关地址
+
+    [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
 ## SimpleRenderer
+
+### 光栅化渲染器的实现
+
+- 项目描述
+
+    使用C++和原生系统API实现一个光栅化渲染器
+
+    项目标签：图形学 渲染器
+
+- 项目难度
+
+    高
+
+- 导师
+
+    xiaoerlaigeid
+
+    xiaoerlaigeid@qq.com
+
+- 项目产出要求
+
+    易于使用的渲染器API接口，并实现文档进行简单描述。
+
+- 技术要求
+
+    参与者应熟悉cpp，熟悉图形学
+
+- 相关地址
+
+    [SimpleRenderer](https://github.com/Simple-XX/SimpleRenderer)
+
+## SimplePhysicsEngine
+
+### 实现 SimplePhysicsEngine 接口以及初步基本功能
+
+- 项目描述
+
+    重新使用C++实现物理仿真算法。需要借助 基于CGAL和 Eigen 的 API 进行图形学中物理模拟算法的实现。实现包括 弹簧质点模型、有限元模型、碰撞检测等算法。
+
+    项目标签：图形学 物理引擎
+
+- 项目难度
+
+    高
+
+- 导师
+
+    xiaoerlaigeid
+
+    xiaoerlaigeid@qq.com
+
+- 项目产出要求
+
+    1. 重新编译 dtk 对 deformable toolkit 库当前已有内容的总结
+
+    2. 参考dtk API进行移植 重新定义API接口
+
+    3. 将之前未实现的FEM 算法实现 
+
+    4. 使用当前API 编写1-2个简单demo 并可视化。（内容可以后续进行探讨）
+
+    5. 实现文档进行简单描述。
+
+- 技术要求
+
+    参与者应熟悉cpp，熟悉图形学
+
+- 相关地址
+
+    [SimplePhysicsEngine](https://github.com/Simple-XX/SimplePhysicsEngine)
+
+    参考代码 
+
+    https://github.com/Deformable-Toolkit/dtk
+
+    https://github.com/FantasyVR/LearnFEMSimpleCompiler
 
 ## SimpleCompiler
 
