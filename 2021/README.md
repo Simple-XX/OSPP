@@ -12,11 +12,15 @@
 
     https://join.slack.com/t/simple-xx/shared_invite/zt-p9li9hrb-Ag1oZuywMljCBSSeRhCMtQ
 
-    (30 days from 4.23)
-
 - Gitter
 
     https://gitter.im/Simple-XX/community
+    
+- QQ
+
+    ![IMG_3972](https://tva1.sinaimg.cn/large/008i3skNly1gqr4152kr6j30ku112tdb.jpg)
+
+NOTE: 请优先使用 issue，以便其他同学参考
 
 ## SimpleCPU
 
