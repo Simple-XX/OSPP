@@ -199,6 +199,10 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+    
+- 中选学生
+
+    杨安杰 [digmouse233](https://github.com/digmouse233)
 
 ### 多平台内存管理优化
 
@@ -278,6 +282,10 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+    
+- 中选学生
+
+    葛岩 [KehRoche](https://github.com/KehRoche)
 
 ### 为 SimpleKernel 实现测试用例和自动化测试流水线
 
@@ -443,5 +451,9 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleCompiler](https://github.com/Simple-XX/SimpleCompiler)
+
+- 中选学生
+
+    刘涵之 [MisakaCenter](https://github.com/MisakaCenter)
 
     
