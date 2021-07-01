@@ -92,6 +92,10 @@ NOTE: 请优先使用 issue，以便其他同学参考
 
     [SimpleCPU](https://github.com/Simple-XX/SimpleCPU)
 
+- 中选学生
+
+    陈泓佚 [laiyiwanrexiang](https://github.com/laiyiwanrexiang)
+
 ### 为SimpleCPU增加Supervisor和User态支持
 
 - 项目描述
@@ -123,6 +127,10 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleCPU](https://github.com/Simple-XX/SimpleCPU)
+
+- 中选学生
+
+    王浩宇 [WangNorthSea](https://github.com/WangNorthSea)
 
 ### 为SimpleCPU拆分流水线优化时序
 
@@ -156,7 +164,9 @@ NOTE: 请优先使用 issue，以便其他同学参考
 
     [SimpleCPU](https://github.com/Simple-XX/SimpleCPU)
 
+- 中选学生
 
+    孙启楚 [...](...)
 
 ## SimpleKernel
 
