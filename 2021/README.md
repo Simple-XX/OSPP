@@ -322,7 +322,9 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+- 中选学生
 
+    关皓然  [...](...)
 ## SimpleRenderer
 
 ### 基于原生系统API的光栅化渲染器实现
@@ -363,7 +365,9 @@ NOTE: 请优先使用 issue，以便其他同学参考
 - 相关地址
 
     [SimpleRenderer](https://github.com/Simple-XX/SimpleRenderer)
+- 中选学生
 
+    戴雨欣  [...](...)
 ## SimplePhysicsEngine
 
 ### 实现 SimplePhysicsEngine 接口以及初步基本功能
@@ -409,7 +413,9 @@ NOTE: 请优先使用 issue，以便其他同学参考
     https://github.com/Deformable-Toolkit/dtk
 
     https://github.com/FantasyVR/LearnFEMSimpleCompiler
+- 中选学生
 
+    陈伟 [TOMsworkspace](https://github.com/TOMsworkspace)
 ## SimpleCompiler
 
 ### 完善编译器架构
