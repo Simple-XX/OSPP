@@ -18,7 +18,7 @@
     
 - QQ
 
-    ![Simple-XX群聊二维码](.\.README.assets\Simple-XX群聊二维码.png)
+    ![Simple-XX群聊二维码](./.README.assets/Simple-XX群聊二维码.png)
 
 NOTE: 请优先使用 issue，以便其他同学参考
 
