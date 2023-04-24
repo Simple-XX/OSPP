@@ -69,3 +69,49 @@ NOTE: 请优先使用 issue，以便其他同学参考
     https://wiki.osdev.org/
 
 [^1]: https://blog.51cto.com/liuqun/1982475
+
+
+
+## SimpleO3Sim
+
+- 项目描述
+
+    SimpleO3Sim 是一个简单的乱序 risc-v 处理器模拟器，当前已实现基本的乱序执行框架与 RV32I 部分指令。本项目希望对其进行进一步完善，实现完整的 RV32IZicsr 指令集，并运行起risc-v 标准测试用例。
+
+    为便于实现这一目标并确认正确性，强烈推荐实现该模拟器与现有其他行为级模拟器的行为对齐机制。
+
+- 项目难度
+
+    进阶
+
+- 导师
+
+    chenguokai chenguokai17@mails.ucas.ac.cn
+
+- 项目产出要求
+
+    1. 为该模拟器实现完整的RV32IZicsr指令集支持，最终可运行对应的risc-v标准测试用例
+    2. （强烈推荐）实现该模拟器与其他行为级模拟器的行为对齐机制
+    3. 整理测试用例形成单元测试
+    4. 其他必要的bug修复
+
+
+- 技术要求
+
+    1. Linux 基础
+    2. c/c++ 基础
+    3. risc-v 汇编基础
+    4. git 使用基础
+    5. 计算机体系结构基础
+    
+- 相关地址
+
+    [SimpleO3Sim](https://github.com/Simple-XX/SimpleO3Sim/)
+
+
+​    
+
+
+
+
+
