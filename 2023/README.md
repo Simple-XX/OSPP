@@ -74,6 +74,8 @@ NOTE: 请优先使用 issue，以便其他同学参考
 
 ## SimpleO3Sim
 
+### 为SimpleO3Sim 完善功能支持
+
 - 项目描述
 
     SimpleO3Sim 是一个简单的乱序 risc-v 处理器模拟器，当前已实现基本的乱序执行框架与 RV32I 部分指令。本项目希望对其进行进一步完善，实现完整的 RV32IZicsr 指令集，并运行起risc-v 标准测试用例。
