@@ -90,4 +90,4 @@ NOTE: 请优先使用 issue，以便其他同学参考
     
 - 相关链接
 
-    [SimpleKernel](https://github.com/Simple-XX/SimpleRenderer)
+    [SimpleRenderer](https://github.com/Simple-XX/SimpleRenderer)

@@ -1,0 +1,13 @@
+# This file is a part of Simple-XX/OSPP
+# (https://github.com/Simple-XX/OSPP).
+#
+# .gitignore for Simple-XX/OSPP.
+
+.DS_Store
+doc/html
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea
+Doxyfile
+
