@@ -89,12 +89,12 @@ NOTE: 请优先使用 issue，以便其他同学参考
 
 ## SimpleKernel
 
-### 为 SimpleKernel C++ 运行时支持
+### 为 SimpleKernel 添加 ACPI 支持
 
 - 项目描述
 
-    TODO
-  
+    在 SimpleKernel 中集成 ACPI（Advanced Configuration and Power Interface）支持，并利用 ACPICA（ACPI Component Architecture）开源库实现硬件抽象、电源管理与设备枚举功能。
+
 - 项目难度
 
     进阶
@@ -105,15 +105,24 @@ NOTE: 请优先使用 issue，以便其他同学参考
 
 - 项目产出要求
 
-    TODO
+    1. 支持 ACPI 设备枚举。可加载并解析 RSDP/XSDT/FADT/MADT 等核心 ACPI 表。输出硬件信息（CPU、内存、中断控制器）
+    2. 支持 ACPI 电源操作（关机、重启、睡眠）
+    3. 在内核中集成 ACPICA。编译并集成 ACPICA 库到内核。实现 AML 解释器，支持 DSDT/SSDT 解析与设备控制
 
 - 技术要求
 
     1. 能使用 Git 进行协作开发
     2. C/C++ 基础
     3. 熟悉 AARCH64, RISCV64, AMD64 体系结构
-    4. 
+    4. 了解 ACPI/ACPICA 相关知识
+    5. 有 C/C++ Bare Metal 编程经验
     
 - 相关链接
 
-    [SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+    [github SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+    
+    [ACPI spec](https://uefi.org/sites/default/files/resources/ACPI_Spec_6_5_Aug29.pdf)
+
+    [osdev ACPICA](https://wiki.osdev.org/ACPICA)
+
+    [github acpica](https://github.com/acpica/acpica)
